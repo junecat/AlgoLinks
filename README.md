@@ -33,3 +33,17 @@
 16. [D1. Динамическое программирование: НВП, НОП (Глеб Лобанов)](https://www.youtube.com/watch?v=3zQcD_4QLlI&t=2s&ab_channel=Rucode_Festival)
 
 17. [Разбор задач D1. Динамическое программирование: НВП, НОП (Глеб Лобанов)](https://www.youtube.com/watch?v=Y3hUxwoS1fc&t=2s&ab_channel=Rucode_Festival)
+
+18. [D1. Динамическое программирование: НВП, НОП (Дмитрий Руденко)](https://www.youtube.com/watch?v=As2wLxdEfhE&t=334s&ab_channel=Rucode_Festival)
+
+19. [Разбор задач D1. Динамическое программирование: НВП, НОП (Дмитрий Руденко)](https://www.youtube.com/watch?v=ZCWaSpQBGqo&ab_channel=Rucode_Festival)
+
+20. [C1. Бор, динамическое программирование на боре. (Владислав Невструев)](https://www.youtube.com/watch?v=J0riHD2lJ6Q&ab_channel=Rucode_Festival)
+
+21. [Разбор задач C1. Бор, динамическое программирование на боре. (Владислав Невструев)](https://www.youtube.com/watch?v=G3uqd2yxa_Y&ab_channel=Rucode_Festival)
+
+22. [C1. Бор, динамическое программирование на боре(Илья Степанов) NSK.](https://www.youtube.com/watch?v=NbHg6v7EimY&ab_channel=Rucode_Festival)
+
+23. [Разбор задач C1. Бор, динамическое программирование на боре(Илья Степанов) NSK.](https://www.youtube.com/watch?v=ud0kL2pzsDg&ab_channel=Rucode_Festival)
+
+24. []()

@@ -1,5 +1,9 @@
 # AlgoLinks - Список ВСЕХ видео с канала Rucode_Festival c полными названиями, именами ведущих и темами
 
+## Rucode - I (сентябрь - октябрь 2020 г.)
+
+### Вступительная часть и видео общего харакуткра
+
 1. [Разбор задач отборочного этапа RuCode на интенсивы по Алгоритмическому Программированию. Владислав Невструев.](https://www.youtube.com/watch?v=UL-yTL65Gk0&ab_channel=Rucode_Festival)
 
 2. [Собеседования в IT: технические и не очень. Алексей Шаграев](https://www.youtube.com/watch?v=AVlHk9adggU&ab_channel=Rucode_Festival)
@@ -46,4 +50,25 @@
 
 23. [Разбор задач C1. Бор, динамическое программирование на боре(Илья Степанов) NSK.](https://www.youtube.com/watch?v=ud0kL2pzsDg&ab_channel=Rucode_Festival)
 
-24. []()
+24. [C2. Алгоритм Ахо-Корасик (Филипп Рухович)](https://www.youtube.com/watch?v=DxtvpuslJGk&ab_channel=Rucode_Festival)  
+
+25. [Разбор задач C2. Алгоритм Ахо-Корасик (Филипп Рухович)](https://www.youtube.com/watch?v=1YqENfGKugo&ab_channel=Rucode_Festival)
+
+26. [C3. Выпуклая оболочка: Джарвис, Грэхем (Владислав Невструев)](https://www.youtube.com/watch?v=OYgLUMAFFT4&ab_channel=Rucode_Festival)
+
+27. [Разбор задач C3. Выпуклая оболочка: Джарвис, Грэхем (Владислав Невструев)](https://www.youtube.com/watch?v=pbfwJZvnO3s&ab_channel=Rucode_Festival)
+
+28. [C4. Паросочетания (Алексей Кулдошин)](https://www.youtube.com/watch?v=1UJtBey22Ls&ab_channel=Rucode_Festival)
+
+29. [Разбор задач C4. Паросочетания (Алексей Кулдошин)](https://www.youtube.com/watch?v=HgffzpzXtdE&ab_channel=Rucode_Festival)
+
+30. [C5. Дерево отрезков (Филипп Рухович)](https://www.youtube.com/watch?v=RndsfS6wfV0&ab_channel=Rucode_Festival)
+
+31. [Разбор задач C5. Дерево отрезков (Филипп Рухович)](https://www.youtube.com/watch?v=NejV6h8XjNU&ab_channel=Rucode_Festival)
+
+## Rucode - II (декабрь 2020 г.)
+
+
+
+32. []()
+

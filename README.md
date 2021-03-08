@@ -1,3 +1,7 @@
+# RuCode 3.0
+
+[RuCode 3.0](https://it-edu.com/member/meroprijatija/rucode-festival-2/)
+
 # AlgoLinks - Список ВСЕХ видео с канала Rucode_Festival c полными названиями, именами ведущих и темами
 
 ## Rucode - I (сентябрь - октябрь 2020 г.)
